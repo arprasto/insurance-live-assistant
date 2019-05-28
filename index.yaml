@@ -1,13 +1,13 @@
 apiVersion: v1
 entries:
-  insurance-live-call-asst:
+  insurance-live-call-assistant-helmchart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-28T16:41:45.249934856+05:30
+    created: 2019-05-28T18:25:27.813417894+05:30
     description: A Helm chart for Kubernetes
-    digest: 0b314c83d3392a306fa9fa0ce44f354ce80c76cfefdccffea81269d088e0557d
-    name: insurance-live-call-asst
+    digest: cee388140d14fdae53090f54d2a67b7de8e7c16dbe2e4af48edaa82edbdbe3a3
+    name: insurance-live-call-assistant-helmchart
     urls:
-    - https://arprasto.github.io/insurance-live-assistant/insurance-live-call-asst-0.1.0.tgz
+    - https://arprasto.github.io/insurance-live-assistant/insurance-live-call-assistant-helmchart-0.1.0.tgz
     version: 0.1.0
-generated: 2019-05-28T16:41:45.243166852+05:30
+generated: 2019-05-28T18:25:27.80150041+05:30
